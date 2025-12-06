@@ -34,7 +34,7 @@
     />
   </a>
 
-  <a href="https://deepakbansode.dev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://deepakvbansode.github.io/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="Portfolio"
@@ -54,12 +54,3 @@
     alt="tech stack"
   />
 </div>
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajayykmr/ajayykmr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajayykmr/ajayykmr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ajayykmr/ajayykmr/output/pacman-contribution-graph.svg">
-</picture>
